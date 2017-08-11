@@ -1,7 +1,11 @@
 # VVVVID
-collection of simple utilities scripts for great VVVVID website!
+Collection of simple utilities scripts for great VVVVID website.
+You can copy-paste these scripts in browser console or just create a bookmark and click on it! when ads is shown!
 
-## skip_vvvvid_ads
+## vvvvid_skip_ads
+Create a bookmark with this script and click on it when ads is shown!
 https://raw.githubusercontent.com/abelmarkus/VVVVID/master/skip_vvvvid_ads.js
 
-you can copy-paste this script in browser console or just create a bookmarks and click on it when ads is shown!
+## vvvvid_view_video_source
+Create a bookmark with this script and click on it when video is playing!
+https://raw.githubusercontent.com/abelmarkus/VVVVID/master/vvvvid_view_video_source.js
